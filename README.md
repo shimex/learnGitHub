@@ -1,2 +1,5 @@
 # learnGitHub
-Starting to use GitHub
+
+Hello Peoples, 
+
+Hope you are all doing well!
